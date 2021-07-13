@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm a 4th-year undergraduate student at the Manipal Institute of Technology, Manipal.
+I'm yet another 4th-year undergraduate student studying Computer Science.
 
 Currently *trying* to explore Deep Learning and its applications in the fields of Quantitative Finance and Health Care. I'm looking to gain some research experience in these fields.
 
