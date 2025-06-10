@@ -1,4 +1,7 @@
 ### Hello World! 👋
 
-I'm a graduate student at UF studying Computer Science.
+Software Engineer.
 
+Python, JS, C++, Golang, Java
+
+"Millions saw the apple fall, but Newton was the only one who asked why?" - Bernard Baruch
